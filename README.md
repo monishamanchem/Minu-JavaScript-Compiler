@@ -1,1 +1,1 @@
-# Minu-JavaScript-Compiler
+# Mini-JavaScript-Compiler
